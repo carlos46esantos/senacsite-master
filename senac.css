@@ -1,0 +1,36 @@
+body{
+    background:linear-gradient(90deg, rgba(209,193,15,0.5104408352668213) 3%, rgba(0,212,255,0.5614849187935035) 100%);
+}
+li{
+
+    list-style-type: none;
+
+    border-style: solid;
+
+    border-width: 1px ;
+
+    border-color: black;
+
+    background-color: linear-gradient(90deg, rgba(209,193,15,0.5104408352668213) 3%, rgba(0,212,255,0.5614849187935035) 100%);
+
+    text-align: center;
+
+    width: 150px;
+
+    float: left;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    /* Se quiser que cada item fique lado a lado */
+
+    /* float: left; */
+
+}
+.Menu {font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+
+    text-align: center;
+    float: center;
+
+} 
+

@@ -1,0 +1,46 @@
+body{
+    background:linear-gradient(90deg, rgba(209,193,15,0.5104408352668213) 3%, rgba(0,212,255,0.5614849187935035) 100%);
+}
+li{
+
+    list-style-type: none;
+
+    border-style: solid;
+
+    border-width: 1px ;
+
+    border-color: black;
+
+    background-color: linear-gradient(90deg, rgba(209,193,15,0.5104408352668213) 3%, rgba(0,212,255,0.5614849187935035) 100%);
+
+    text-align: center;
+
+    width: 150px;
+
+}
+.Institucional{
+    text-align: center;
+    float: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+}
+.Quem Somos{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.O que fazemos {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.Missão{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.Vissão{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.Valores{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
